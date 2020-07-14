@@ -1,9 +1,8 @@
 # Julia Oliveira
-<p>
-<a href="https://www.linkedin.com/in/julia-oliveira-silva/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&style=for-the-badge&logo=linkedin"/></a>
-<a href="https://github.com/juliasilvao/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=GitHub&color=black&style=for-the-badge&logo=github"/></a>
-<a href="https://www.instagram.com/_juliaoliveeira/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=red&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Julia-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-oliveira-silva/)](https://www.linkedin.com/in/tgmarinho/) 
+[![GitHub Badge](https://img.shields.io/badge/-juliasilvao-171515?style=flat-square&logo=GitHub&logoColor=white&link=github.com/juliasilvao/)](github.com/juliasilvao/)
+[![Gmail Badge](https://img.shields.io/badge/-julia.oliveira.silva@outlook.com-0072C6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julia.oliveira.silva@outlook.com)](mailto:julia.oliveira.silva@outlook.com)
 
 ## Olá! 😊
 
