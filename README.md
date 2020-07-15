@@ -8,7 +8,7 @@
 
 Meu nome é Julia, sou tecnóloga em Gestão da Tecnologia da Informação pela FATEC.
 
-- 👩‍💻 Sou analista de sistema na Unimed de Guaratinguetá.
+- 👩‍💻 e trabalho como analista de sistemas na Unimed de Guaratinguetá.
 - 🚀 Techs: HTML, CSS, JavaScript, Node.js, SQL e entre outras.
 - :blue_book: Cursando o bootcamp LaunchBase da Rocketseat.
 
