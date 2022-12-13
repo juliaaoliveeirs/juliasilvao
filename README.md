@@ -9,7 +9,7 @@
 Meu nome é Julia, sou tecnóloga em Gestão da Tecnologia da Informação pela FATEC.
 
 - 👩‍💻 Analista de Desenvolvimento de Software na TOTVS.
-- 🚀 Techs: HTML, CSS, JavaScript, Node.js, MSSQL, GoodData, entre outras.
+- 🚀 Techs: HTML, CSS, JavaScript, MSSQL, GoodData, entre outras.
 
 ---
 
